@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabAssiAsseProjectV01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabAssiAsseRequirements .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonitorizareTemeLaboratorV01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_AnalysisDesignDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_RequirementsDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ana.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maria.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/console/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/HasID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Tema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractCRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/CRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/NotaValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/StudentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/TemaValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/HasID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Tema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/CRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/NotaValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/StudentValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/TemaValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenti.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenti.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vasile.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26Tg71MG8lG2g88uuAq0sgZKH83" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="" />
+      <created>1647452821506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647452821506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="Added tests">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/WbTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teme.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,52 +48,82 @@
       <recent name="D:\dev\uni\SSVV\Lab1\repo\ssvv_lab2\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.LabAssiAsseProjectV01 [test]">
-    <configuration name="TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WbTest.addAssignment_invalidId_returnCode0">
+    <configuration name="WbTest.addAssignment_invalidId_returnCode0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
-      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
+      <option name="METHOD_NAME" value="addAssignment_invalidId_returnCode0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_invalidId_returnCode1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
-      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval1_studentSaved" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
+      <option name="METHOD_NAME" value="addAssignment_invalidId_returnCode1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validFields_twice_returnCode0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
-      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval2_studentSaved" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
+      <option name="METHOD_NAME" value="addAssignment_validFields_twice_returnCode0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validId_assignmentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
-      <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
+      <option name="METHOD_NAME" value="addAssignment_validId_assignmentSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validId_returnCode0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
-      <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperInterval_studentNotSaved" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
+      <option name="METHOD_NAME" value="addAssignment_validId_returnCode0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,19 +182,19 @@
     <list>
       <item itemvalue="Maven.LabAssiAsseProjectV01 [test]" />
       <item itemvalue="Maven.LabAssiAsseProjectV01 [compile]" />
-      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" />
-      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" />
-      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
-      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
-      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validId_assignmentSaved" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode0" />
+      <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode1" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode0" />
+      <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" />
-        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
-        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
-        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" />
-        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" />
+        <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode0" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode0" />
+        <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode1" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode0" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validId_assignmentSaved" />
       </list>
     </recent_temporary>
   </component>
@@ -198,8 +230,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/example/AppTest.java</url>
-          <line>55</line>
+          <line>56</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/WbTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

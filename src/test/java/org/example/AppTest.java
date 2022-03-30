@@ -1,23 +1,21 @@
+package org.example;
+
 import domain.Nota;
 import domain.Student;
 import domain.Tema;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import console.*;
 import repository.NotaXMLRepository;
 import repository.StudentXMLRepository;
 import repository.TemaXMLRepository;
 import service.Service;
 import validation.*;
-
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-public class TestTest {
+public class AppTest {
     private static final String VALID_ID = "student#1234";
     private static final String INVALID_ID = "";
     private static final String VALID_NAME = "name123";
@@ -31,8 +29,6 @@ public class TestTest {
     private static final int INVALID_GROUP_UPPER_BOUNDARY_1 = 110;
     private static final int INVALID_GROUP_LOWER_BOUNDARY_1 = 938;
     private static final int INVALID_GROUP_3 = 1000;
-
-
 
     private Service service;
 

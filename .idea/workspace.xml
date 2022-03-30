@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="Added tests">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/console/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/console/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/HasID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/HasID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Nota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Tema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ssvv/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractFileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractXMLRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/CRUDRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/CRUDRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaFileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaXMLRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentFileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentXMLRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaFileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaXMLRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ssvv/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/NotaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/NotaValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/StudentValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/StudentValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/TemaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/TemaValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/ValidationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +49,8 @@
   <component name="RunManager" selected="Maven.LabAssiAsseProjectV01 [test]">
     <configuration name="TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
       <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -90,8 +59,8 @@
     </configuration>
     <configuration name="TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
       <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval1_studentSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -100,8 +69,8 @@
     </configuration>
     <configuration name="TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
       <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval2_studentSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -110,8 +79,8 @@
     </configuration>
     <configuration name="TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
       <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -120,8 +89,8 @@
     </configuration>
     <configuration name="TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestTest" />
       <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperInterval_studentNotSaved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -228,8 +197,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/TestTest.java</url>
-          <line>61</line>
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/AppTest.java</url>
+          <line>55</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

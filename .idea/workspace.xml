@@ -4,101 +4,198 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabAssiAsseProjectV01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabAssiAsseRequirements .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorizareTemeLaboratorV01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_AnalysisDesignDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_RequirementsDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ana.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maria.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/console/UI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/HasID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Nota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Tema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractCRUDRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractFileRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractXMLRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/CRUDRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaFileRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaXMLRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentFileRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentXMLRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaFileRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaXMLRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/service/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/NotaValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/StudentValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/TemaValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/ValidationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/console/UI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/HasID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Nota.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Pair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Tema.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/CRUDRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/NotaValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/StudentValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/TemaValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/ValidationException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation/Validator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studenti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/studenti.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vasile.txt" beforeDir="false" />
+    <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="Added tests">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/console/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/HasID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/HasID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Nota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Tema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Tema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ssvv/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractXMLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/CRUDRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/CRUDRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaXMLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentXMLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaXMLRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ssvv/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/NotaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/NotaValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/StudentValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/StudentValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/TemaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/TemaValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/validation/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studenti.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="26Tg71MG8lG2g88uuAq0sgZKH83" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\uni\SSVV\Lab1\repo\ssvv_lab2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.LabAssiAsseProjectV01 [test]">
+    <configuration name="TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProjectV01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProjectV01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval1_studentSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProjectV01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="METHOD_NAME" value="saveStudent_invalidGroupLowerInterval2_studentSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProjectV01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProjectV01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTest" />
+      <option name="METHOD_NAME" value="saveStudent_invalidGroupUpperInterval_studentNotSaved" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabAssiAsseProjectV01 [compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LabAssiAsseProjectV01 [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.LabAssiAsseProjectV01 [test]" />
+      <item itemvalue="Maven.LabAssiAsseProjectV01 [compile]" />
+      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" />
+      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" />
+      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
+      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
+      <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperInterval_studentNotSaved" />
+        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerBoundary_studentNotSaved" />
+        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupUpperBoundary_studentNotSaved" />
+        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval2_studentSaved" />
+        <item itemvalue="JUnit.TestTest.saveStudent_invalidGroupLowerInterval1_studentSaved" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -121,5 +218,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tests" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

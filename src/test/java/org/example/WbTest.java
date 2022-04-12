@@ -65,11 +65,29 @@ public class WbTest {
     }
 
     @Test
-    public void addAssignment_validFields_twice_returnCode0() {
+    public void addAssignment_validFields_twice_returnCode1() {
         int returnCode = service.saveTema(VALID_ID, VALID_DESC, VALID_DEADLINE, VALID_STARTLINE);
         Assert.assertEquals(1, returnCode);
 
         returnCode = service.saveTema(VALID_ID, VALID_DESC, VALID_DEADLINE, VALID_STARTLINE);
-        Assert.assertEquals(0, returnCode);
+        Assert.assertEquals(1, returnCode);
+
+        // check that only one assignment with this ID was added
+        long assigCount = StreamSupport.stream(service.findAllTeme().spliterator(), false)
+                .filter(assign -> assign.getID() == VALID_ID)
+                .count();
+        Assert.assertEquals(1, assigCount);
+    }
+
+    @Test
+    public void addAssignment_validFields_twice_addedOnce() {
+        service.saveTema(VALID_ID, VALID_DESC, VALID_DEADLINE, VALID_STARTLINE);
+        service.saveTema(VALID_ID, VALID_DESC, VALID_DEADLINE, VALID_STARTLINE);
+
+        // check that only one assignment with this ID was added
+        long assigCount = StreamSupport.stream(service.findAllTeme().spliterator(), false)
+                .filter(assign -> assign.getID() == VALID_ID)
+                .count();
+        Assert.assertEquals(1, assigCount);
     }
 }

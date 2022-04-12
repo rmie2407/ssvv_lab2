@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0565458-4e3b-4020-9eff-3ffd08da02c5" name="Changes" comment="Added tests">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/WbTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/WbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/WbTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/teme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teme.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +49,8 @@
       <recent name="D:\dev\uni\SSVV\Lab1\repo\ssvv_lab2\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WbTest.addAssignment_invalidId_returnCode0">
-    <configuration name="WbTest.addAssignment_invalidId_returnCode0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WbTest.addAssignment_validFields_twice_addedOnce">
+    <configuration name="WbTest.addAssignment_validFields_twice_addedOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
       <extension name="coverage">
         <pattern>
@@ -59,13 +60,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
-      <option name="METHOD_NAME" value="addAssignment_invalidId_returnCode0" />
+      <option name="METHOD_NAME" value="addAssignment_validFields_twice_addedOnce" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WbTest.addAssignment_invalidId_returnCode1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validFields_twice_returnCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +76,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
-      <option name="METHOD_NAME" value="addAssignment_invalidId_returnCode1" />
+      <option name="METHOD_NAME" value="addAssignment_validFields_twice_returnCode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,7 +98,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WbTest.addAssignment_validId_assignmentSaved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validFields_twice_returnCode1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
       <extension name="coverage">
         <pattern>
@@ -107,13 +108,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
-      <option name="METHOD_NAME" value="addAssignment_validId_assignmentSaved" />
+      <option name="METHOD_NAME" value="addAssignment_validFields_twice_returnCode1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WbTest.addAssignment_validId_returnCode0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WbTest.addAssignment_validId_returnCode1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LabAssiAsseProjectV01" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +124,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.WbTest" />
-      <option name="METHOD_NAME" value="addAssignment_validId_returnCode0" />
+      <option name="METHOD_NAME" value="addAssignment_validId_returnCode1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -180,21 +181,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode0" />
       <item itemvalue="Maven.LabAssiAsseProjectV01 [test]" />
       <item itemvalue="Maven.LabAssiAsseProjectV01 [compile]" />
-      <item itemvalue="JUnit.WbTest.addAssignment_validId_assignmentSaved" />
-      <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode0" />
-      <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode1" />
-      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode0" />
-      <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode0" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode1" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode1" />
+      <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_addedOnce" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode0" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_addedOnce" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode1" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode" />
         <item itemvalue="JUnit.WbTest.addAssignment_validFields_twice_returnCode0" />
-        <item itemvalue="JUnit.WbTest.addAssignment_invalidId_returnCode1" />
-        <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode0" />
-        <item itemvalue="JUnit.WbTest.addAssignment_validId_assignmentSaved" />
+        <item itemvalue="JUnit.WbTest.addAssignment_validId_returnCode1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,21 +225,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added tests" />
     <option name="LAST_COMMIT_MESSAGE" value="Added tests" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/AppTest.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/WbTest.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
